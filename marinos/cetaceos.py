@@ -5,3 +5,7 @@ class Cetaceo(Animal):
 
 class Delfin(Cetaceo):
     pass
+
+
+class Orca(Cetaceo):
+    pass
